@@ -3,11 +3,6 @@ import { NavLink } from "react-router-dom";
 import Cost from './Cost'
 import {Container, Navbar} from 'react-bootstrap'
 import CostForm from "./CostForm";
-import { HashRouter } from 'react-router-dom'
-
-<HashRouter>
-  <UpdateCosts/>
-</HashRouter>
 
 function UpdateCosts({activities, costs, setCosts, employees}) {
     const [totalCost, setTotalCost] = useState(0)
