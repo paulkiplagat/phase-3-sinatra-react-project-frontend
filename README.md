@@ -7,5 +7,5 @@ This application helps track activities and costs for a project.It allows the us
 Clone the backend for server: **https://github.com/paulkiplagat/phase-3-sinatra-react-project**
 After starting the backend server, to start react page run:
 
-npm install
-npm start
+*npm install*
+*npm start*
